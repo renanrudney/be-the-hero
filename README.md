@@ -2,19 +2,20 @@
 <img src="./mobile/src/assets/logo@3x.png" width="250px" /><br>
 </h4>
 <p align="center">
-  <a href="https://rocketseat.com.br">
      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/renanrudney/semanaomnistack11">
      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/renanrudney/semanaomnistack11">
+  <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-blueviolet">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+<p align="center">
+  <img src="./mobile_version.png" width="720px" /><br>
 </p>
 
 Semana Omnistack 11,  ministrada por [Diego Fernandes](https://github.com/diego3g) :mortar_board:
 
 Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
-<br>
 
 ### Pré-requisitos
 Antes de começar, verifique se possui os seguintes requisitos:
