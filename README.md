@@ -2,8 +2,8 @@
 <img src="./mobile/src/assets/logo@3x.png" width="250px" /><br>
 </h4>
 <p align="center">
-     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/renanrudney/semanaomnistack11">
-     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/renanrudney/semanaomnistack11">
+     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/renanrudney/be-the-hero">
+     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/renanrudney/be-the-hero">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-blueviolet">
   </a>
